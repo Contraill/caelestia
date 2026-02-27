@@ -142,3 +142,5 @@ Here's a list of useful keybinds though:
 -   `Ctrl` `Alt` + `Delete` - open session menu
 -   `Ctrl` `Super` + `Space` - toggle media play state
 -   `Ctrl` `Super` `Alt` + `R` - restart the shell
+-   `Ctrl` `Alt` + `C` - clear notifications
+-   `Super` `Alt` + `V` - clear clipboard
